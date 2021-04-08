@@ -1,6 +1,22 @@
 # Presentación
 
 ## Estudiante: Pedro Imanol Torales Gomez
-### Descripcion: wenassss, soy Pedro, aka: Pepino Malvado, piter, pepi, imanol, cachorrito, alto cringe los apodos. Aguante Serú y los vitels aguante el piano, aguante Kauffman, Lanthimos y Kubrick, agunate el futbol 5, aguante los champs en RL, aguante el osobuco y el vitel toné, aguante el ferno 50/50, aguante Spinoza, aguante el invierno y la lluvia, aguante zlatan y aguante mi vieja que es lo más grande que hay.
-
-![mi foto](cara.jpeg)
+### Descripcion: wenassss, soy Pedro.
+#### A.K.A: Pepi, Piter, Imanol, Pepino Malvado, Cachorro, P.
+#### Ubicación: Villa Pueyrredón (un 107 desde Lugano)
+#### Instrumento: Piano.
+#### Bandas Arg: Serú.
+#### Banda Int: Los Beatles.
+#### 2 directores: Kubrick y Kauffman.
+#### Deporte: Futbol 5.
+#### Comida: Vitel Toné.
+#### Filo.fav: Spinoza.
+#### Color: Multicolor.
+#### Canción: Un Loco en una calesita (Baglietto version)
+#### Jugador: Zlatan.
+#### Película: 12 angry men.
+#### Escabio: Ferné con soda.
+#### Juego de mesa: Ajedrez.
+#### Juego: RL (Champ).
+#### Me cansé de escribir :)
+![mi foto](cara.jpg)
