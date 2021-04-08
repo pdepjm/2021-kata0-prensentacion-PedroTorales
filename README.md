@@ -1,8 +1,6 @@
 # Presentación
 
 ## Estudiante: Pedro Imanol Torales Gomez
-### Descripcion: Soy Pedro, estoy en mi segundo año de carrera y me gusta el cine.
+### Descripcion: wenassss, soy Pedro, aka: Pepino Malvado, piter, pepi, imanol, cachorrito, alto cringe los apodos. Aguante Serú y los vitels aguante el piano, aguante Kauffman, Lanthimos y Kubrick, agunate el futbol 5, aguante los champs en RL, aguante el osobuco y el vitel toné, aguante el ferno 50/50, aguante Spinoza, aguante el invierno y la lluvia, aguante zlatan y aguante mi vieja que es lo más grande que hay.
 
 ![mi foto](cara.jpeg)
-
-Seguí los pasos del doc [acá](https://docs.google.com/document/d/e/2PACX-1vTNHQ5dzaVFhKPd4UxLOGhZa9Ix_bDgpyIftq4gqzz7674dHmHkcH2oH9TpQ_TsghZkiSPBoUm2ftzM/pub).
